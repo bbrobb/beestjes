@@ -1,5 +1,7 @@
 ## Beestjes | Natuur | Tuinplezier
 
+[Ratten en Muizen](https://bbrobb.github.io/beestjes/index.html) | [Marters](https://bbrobb.github.io/beestjes/marters.html) | [7 gemaakte fouten](https://bbrobb.github.io/beestjes/rattenvangen.html)
+
 ### Dieren onder de motorkap: eerste hulp bij marterschade
 
 **Marter** gespot? **Steenmarters** en **andere marterachtige** roofdieren hebben een hoge aaibaarheidsfactor, maar kunnen flinke schade aanrichten aan je auto. Toch kunnen we perfect samenleven met deze soort. Waarom kruipen marters eigenlijk onder de motorkap of knagen ze aan de isolatie en onderdelen? En hoe kan je dit verhelpen? Ontdek welke duurzame oplossingen komaf maken met marterschade en wat je kan doen als ze je voor zijn.
@@ -18,3 +20,5 @@ Als één steenmarter de toegang tot je auto of motorkap gevonden heeft, kan je 
 
 #### Overlast
 De geluidsoverlast, geurhinder en schade die steenmarters met zich meebrengen, doen ons vaak vergeten dat deze kleine, aaibare diertjes ook erg nuttig zijn. Eenmaal je weet hoe je kunt samenleven met steenmarters en andere leden van de marterfamilie, ontdek je al snel de voordelen van hun aanwezigheid. Deze roofdieren zijn namelijk uitstekende jagers en vangen graag muizen en ratten. Zo helpen ze een knaagdierenplaag voorkomen. ​
+
+> Artikel: 4 juli 2021
