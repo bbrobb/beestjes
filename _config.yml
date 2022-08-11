@@ -1,4 +1,4 @@
-theme: jekyll-theme-leap-day
+# theme: jekyll-theme-leap-day
 
 title: Example Jekyll site using GitLab Pages
 email: your-email@domain.com
@@ -13,6 +13,6 @@ github_username:  jekyll
 gitlab_username:  pages
 
 # Build settings
-theme: minima
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
