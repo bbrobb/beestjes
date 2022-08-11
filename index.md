@@ -37,4 +37,4 @@ Voor (labo)muizen is uit een recente studie (Adduci et al., 2019) wel gebleken d
 Geurstoffen als afweermiddel worden conform de Belgische wetgeving als biociden beschouwd. Er zijn geen erkende geurstoffen voor het weren van ratten en muizen op de 
 Belgische markt beschikbaar.
 
-> Artikel: 27 juni 2021
+> Artikel: 27 juni 2021 
