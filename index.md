@@ -1,5 +1,7 @@
 ## Beestjes | Natuur | Tuinplezier
 
+[Ratten en Muizen](https://bbrobb.github.io/beestjes/index.html). | [Marters](https://bbrobb.github.io/beestjes/marters.html). | [7 gemaakte fouten](https://bbrobb.github.io/beestjes/rattenvangen.html).
+
 ### Ratten en muizen
 
 Naast bruine en zwarte ratten komen er in Vlaanderen ook nog **woelratten**, **muskusratten** en **beverratten** voor. Deze zijn echter makkelijk te onderscheiden van de ‘echte’ ratten aangezien zij een veel stompere kop hebben en in het geval van muskus- en beverratten ook aanzienlijk groter zijn. Muskus- en beverratten worden als invasieve exoten beschouwd en worden in Vlaanderen systematisch bestreden. **Woelratten** kunnen bestreden worden ter bescherming van gewassen.
@@ -34,3 +36,5 @@ Het idee om feromonen of andere geuren te gebruiken doet ook al lang de ronde (S
 Voor (labo)muizen is uit een recente studie (Adduci et al., 2019) wel gebleken dat bepaalde geuren, zoals deze van onbekende mannetjes of vossenuitwerpselen of kattenurine, een negatief effect hebben op het aantal jongen dat geboren wordt. Verder onderzoek moet echter nog uitwijzen of deze effecten ook bij wilde muizen in het veld een rol spelen en of op lange termijn er geen compensatie optreedt van de kleinere geboorteaantallen doordat de volwassen dieren bijvoorbeeld langer overleven.
 Geurstoffen als afweermiddel worden conform de Belgische wetgeving als biociden beschouwd. Er zijn geen erkende geurstoffen voor het weren van ratten en muizen op de 
 Belgische markt beschikbaar.
+
+> Artikel: 27 juni 2021
