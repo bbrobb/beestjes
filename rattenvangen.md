@@ -1,5 +1,7 @@
 ## Beestjes | Natuur | Tuinplezier
 
+[Ratten en Muizen](https://bbrobb.github.io/beestjes/index.html) | [Marters](https://bbrobb.github.io/beestjes/marters.html) | [7 gemaakte fouten](https://bbrobb.github.io/beestjes/rattenvangen.html)
+
 ### Ratten vangen | 7 gemaakte fouten
 
 Om van een rattenplaag af te komen, hoeft u alleen maar de rattenvallen in te stellen en te wachten tot ze worden gepakt, toch? Helaas gebeurt dit in praktijk niet zo snel en zeker niet zo effectief mogelijk. Hieronder beschrijven wij de 7 meest voorkomende fouten bij het vangen van ratten. Ook leert u hoe u deze fouten in de toekomst kunt voorkomen.
