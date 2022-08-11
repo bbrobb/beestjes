@@ -1,6 +1,6 @@
 ## Beestjes | Natuur | Tuinplezier
 
-[Ratten en Muizen](https://bbrobb.github.io/beestjes/index.html). | [Marters](https://bbrobb.github.io/beestjes/marters.html). | [7 gemaakte fouten](https://bbrobb.github.io/beestjes/rattenvangen.html).
+[Ratten en Muizen](https://bbrobb.github.io/beestjes/index.html) | [Marters](https://bbrobb.github.io/beestjes/marters.html) | [7 gemaakte fouten](https://bbrobb.github.io/beestjes/rattenvangen.html)
 
 ### Ratten en muizen
 
