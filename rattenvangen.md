@@ -3,6 +3,7 @@
 ### Ratten vangen | 7 gemaakte fouten
 
 Om van een rattenplaag af te komen, hoeft u alleen maar de rattenvallen in te stellen en te wachten tot ze worden gepakt, toch? Helaas gebeurt dit in praktijk niet zo snel en zeker niet zo effectief mogelijk. Hieronder beschrijven wij de 7 meest voorkomende fouten bij het vangen van ratten. Ook leert u hoe u deze fouten in de toekomst kunt voorkomen.
+
 #### Fout nr. 1: Het aas of de val zonder handschoenen instellen.
 Ratten zijn makkelijk in staat uw geur op te speuren op de vallen en kunnen dan wegblijven. Om dit te voorkomen is het van belang handschoenen te dragen bij het instellen en aanraken van uw rattenval of aas.
 
@@ -23,3 +24,7 @@ Ratten zijn wat betreft reproductie agressief snel! Ze kunnen wel tot 14 baby's 
 
 #### Fout nr. 7: Te langzaam anticiperen
 Hoe langer je wacht, hoe kleiner de kans op effectief slagen wordt bij het vangen van ratten. Meerdere studies hebben aangetoond dat u op de eerste nacht van plaatsing, relatief gezien meer ratten vangt dan op nacht die daarna volgt. Plaats daarom bij de eerste tekenen van ongedierte direct rattenvallen. Het liefst met verschillende soorten aas om er zeker van te zijn dat het een geslaagde openingsnacht wordt.
+
+Doorzetten is de boodschap! Ratten hebben meer geduld dan jij. Daarom is het belangrijk om geen fouten te maken. 
+
+> Artikel: 24 juli 2021
